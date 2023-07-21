@@ -1,2 +1,2 @@
-# projekt_matlab
-Projekt zaliczeniowy 
+# Projekt zaliczeniowy 
+Analiza ceny podstawowych dóbr zestawiona z płacą. 
